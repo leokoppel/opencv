@@ -1,8 +1,8 @@
-opencv (3.2.0) experimental; urgency=low
+opencv (3.2.0-1~exp1) xenial; urgency=low
 
   * Update for 3.2.0 xenial
 
- -- Leo Koppel <lkoppel@uwaterloo.ca>  Wed, 31 May 2017 17:10:00 -0500
+ -- Leonid Koppel <lkoppel@uwaterloo.ca>  Wed, 1 Jun 2017 17:40:00 -0500
 
 opencv (3.1.0+dfsg1-1~exp1) experimental; urgency=medium
 
