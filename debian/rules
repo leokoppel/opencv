@@ -38,6 +38,10 @@ endif
 CMAKE_ARCH_FLAGS += -DWITH_OPENGL=ON
 endif
 
+# Add fPIC
+CMAKE_ARCH_FLAGS += -DCMAKE_POSITION_INDEPENDENT_CODE=ON
+
+
 # For Java
 export JAVA_HOME=/usr/lib/jvm/default-java
 
