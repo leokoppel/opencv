@@ -714,7 +714,7 @@ Description: development files for libopencv-photo3.2
  .
  The Open Computer Vision Library is a collection of algorithms and sample
  code for various computer vision problems. The library is compatible with
- IPL (Intel's Image Processing Library) and, if available, can use IPP
+ IPL (Intel's Image Processing Library) and, if asvailable, can use IPP
  (Intel's Integrated Performance Primitives) for better performance.
  .
  OpenCV provides low level portable data types and operators, and a set
@@ -971,7 +971,7 @@ Pre-Depends:
  ${misc:Pre-Depends},
 Depends:
  libopencv-core3.2 (= ${binary:Version}),
- libvtk6.3,
+ libvtk6.2,
  ${misc:Depends},
  ${shlibs:Depends},
 Description: computer vision 3D data visualization library
@@ -1060,7 +1060,6 @@ Description: computer vision contrlib library
    - bgsegm
    - bioinspired
    - ccalib
-   - dnn
    - dpm
    - fuzzy
    - hdf
@@ -1073,7 +1072,6 @@ Description: computer vision contrlib library
    - structured_light
    - rgbd
    - surface_matching
-   - tracking
    - datasets
    - text
    - face
