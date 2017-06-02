@@ -79,7 +79,7 @@ CMAKE_FLAGS = \
 	-DWITH_QT=ON \
 	-DOPENCL_INCLUDE_DIR:PATH="/usr/include/CL/" \
 	-DOPENCV_EXTRA_MODULES_PATH="$(CURDIR)/contrib/modules" \
-	-DBUILD_PROTOBUF=OFF \
+	-DBUILD_opencv_dnn=OFF \
 	$(CMAKE_ARCH_FLAGS)
 
 %:
