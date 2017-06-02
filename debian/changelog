@@ -1,4 +1,4 @@
-opencv (3.2.0-1~exp4) xenial; urgency=low
+opencv (3.2.0-1~exp6) xenial; urgency=low
 
   * Update for upstream 3.2.0
     - Update patches and version numbers
@@ -7,6 +7,7 @@ opencv (3.2.0-1~exp4) xenial; urgency=low
     - Add POSITION_INDEPENDENT_CODE CMake option
     - Add install targets for contrib modules cvv, freetype, phase_unwrapping,
       and xfeatures2d
+    - Add vgg and boostdesc files from opencv_3rdparty
 
  -- Leonid Koppel <lkoppel@uwaterloo.ca>  Wed, 1 Jun 2017 17:40:00 -0500
 
