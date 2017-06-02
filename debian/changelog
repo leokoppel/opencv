@@ -1,4 +1,4 @@
-opencv (3.2.0-1~trusty1) trusty; urgency=low
+opencv (3.2.0-1~trusty2) trusty; urgency=low
 
   * Update for upstream 3.2.0
     - Update patches and version numbers

@@ -27,7 +27,7 @@ Build-Depends:
  libjpeg-dev,
  liblapack-dev (>= 3.2.1),
  libleptonica-dev,
- libopenexr-dev (>= 1.6.1-8.1),
+ libopenexr-dev (>= 1.4.0),
  libpng-dev,
  libprotobuf-dev,
  libraw1394-dev [linux-any],
