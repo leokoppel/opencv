@@ -24,10 +24,10 @@ usr/include/opencv2/cvv.hpp
 usr/lib/*/libopencv_cvv.a
 usr/lib/*/libopencv_cvv.so*
 # dnn
-usr/include/opencv2/dnn/*
-usr/include/opencv2/dnn.hpp
-usr/lib/*/libopencv_dnn.a
-usr/lib/*/libopencv_dnn.so
+#usr/include/opencv2/dnn/*
+#usr/include/opencv2/dnn.hpp
+#usr/lib/*/libopencv_dnn.a
+#usr/lib/*/libopencv_dnn.so
 # dpm
 usr/include/opencv2/dpm.hpp
 usr/lib/*/libopencv_dpm.a
@@ -98,10 +98,10 @@ usr/include/opencv2/rgbd.hpp
 usr/lib/*/libopencv_rgbd.a
 usr/lib/*/libopencv_rgbd.so
 # tracking
-usr/include/opencv2/tracking/*
-usr/include/opencv2/tracking.hpp
-usr/lib/*/libopencv_tracking.a
-usr/lib/*/libopencv_tracking.so
+#usr/include/opencv2/tracking/*
+#usr/include/opencv2/tracking.hpp
+#usr/lib/*/libopencv_tracking.a
+#usr/lib/*/libopencv_tracking.so
 # datasets
 usr/include/opencv2/datasets/*
 # usr/include/opencv2/datasets.hpp

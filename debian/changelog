@@ -1,4 +1,4 @@
-opencv (3.2.0-1~exp9) xenial; urgency=low
+opencv (3.2.0-1~exp10) xenial; urgency=low
 
   * Update for upstream 3.2.0
     - Update patches and version numbers
