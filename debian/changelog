@@ -1,4 +1,4 @@
-opencv (3.2.0-2~exp1) xenial; urgency=low
+opencv (3.2.0-1~trusty1) trusty; urgency=low
 
   * Update for upstream 3.2.0
     - Update patches and version numbers
@@ -269,7 +269,7 @@ opencv (2.4.9.1+dfsg-1.1) unstable; urgency=medium
 
   * Non-maintainer upload.
 
-  [ Bernhard Übelacker ]
+  [ Bernhard ?belacker ]
   * Build with -march=i586 instead of -march=i686 on i386. (Closes: #784647)
 
  -- Sebastian Ramacher <sramacher@debian.org>  Fri, 15 May 2015 21:34:12 +0200

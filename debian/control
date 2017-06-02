@@ -36,7 +36,7 @@ Build-Depends:
  libtesseract-dev,
  libtiff-dev,
  libv4l-dev [linux-any],
- libvtk6-dev,
+ libvtk5-dev,
  ocl-icd-opencl-dev,
  protobuf-compiler,
  python-dev,
@@ -971,7 +971,7 @@ Pre-Depends:
  ${misc:Pre-Depends},
 Depends:
  libopencv-core3.2 (= ${binary:Version}),
- libvtk6.2,
+ libvtk5.8,
  ${misc:Depends},
  ${shlibs:Depends},
 Description: computer vision 3D data visualization library
