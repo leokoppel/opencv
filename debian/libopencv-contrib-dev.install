@@ -22,7 +22,7 @@ usr/lib/*/libopencv_ccalib.so
 usr/include/opencv2/cvv/*
 usr/include/opencv2/cvv.hpp
 usr/lib/*/libopencv_cvv.a
-usr/lib/*/libopencv_cvv.so*
+usr/lib/*/libopencv_cvv.so
 # dnn
 #usr/include/opencv2/dnn/*
 #usr/include/opencv2/dnn.hpp
@@ -35,7 +35,7 @@ usr/lib/*/libopencv_dpm.so
 # freetype
 usr/include/opencv2/freetype.hpp
 usr/lib/*/libopencv_freetype.a
-usr/lib/*/libopencv_freetype.so*
+usr/lib/*/libopencv_freetype.so
 # fuzzy
 usr/include/opencv2/fuzzy/*
 usr/include/opencv2/fuzzy.hpp
@@ -57,11 +57,10 @@ usr/include/opencv2/optflow.hpp
 usr/lib/*/libopencv_optflow.a
 usr/lib/*/libopencv_optflow.so
 # phase_unwrapping
+usr/include/opencv2/phase_unwrapping/*
 usr/include/opencv2/phase_unwrapping.hpp
-usr/include/opencv2/phase_unwrapping/phase_unwrapping.hpp
-usr/include/opencv2/phase_unwrapping/histogramphaseunwrapping.hpp
 usr/lib/*/libopencv_phase_unwrapping.a
-usr/lib/*/libopencv_phase_unwrapping.so*
+usr/lib/*/libopencv_phase_unwrapping.so
 # plot
 # usr/include/opencv2/plot/*
 usr/include/opencv2/plot.hpp
@@ -121,7 +120,7 @@ usr/lib/*/libopencv_face.so
 usr/include/opencv2/xfeatures2d.hpp
 usr/include/opencv2/xfeatures2d/*
 usr/lib/*/libopencv_xfeatures2d.a
-usr/lib/*/libopencv_xfeatures2d.so*
+usr/lib/*/libopencv_xfeatures2d.so
 # ximgproc
 usr/include/opencv2/ximgproc/*
 usr/include/opencv2/ximgproc.hpp
@@ -136,4 +135,3 @@ usr/include/opencv2/xphoto/*
 usr/include/opencv2/xphoto.hpp
 usr/lib/*/libopencv_xphoto.a
 usr/lib/*/libopencv_xphoto.so
-
